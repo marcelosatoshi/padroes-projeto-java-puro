@@ -3,7 +3,7 @@ package src.one.digitalinnovation.gof.singleton;
 /**
  * Singleton "preguiçoso".
  * 
- * @author falvojr
+ * @author marcelo
  */
 public class SingletonLazy {
 
